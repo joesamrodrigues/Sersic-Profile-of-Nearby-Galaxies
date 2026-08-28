@@ -78,10 +78,10 @@ Galaxies with n > 2.5 are classified as early-type (elliptical); n < 2.5 as late
 
 | File | Description |
 |------|-------------|
-| `Micro_Project_3.ipynb` | Full analysis notebook — photometry, Sérsic fitting, plots |
-| `Rodrigues_draft_paper.pdf` | Research report submitted for the module |
-| `diary` | Research diary kept throughout the project |
-| `*.fits.fz` | Raw FITS telescope images for NGC 3982, NGC 2865, NGC 7773 |
+| `Micro_Project.ipynb` | Full analysis notebook — photometry, Sérsic fitting, plots |
+| `Rodrigues_PXT992_paper_report.pdf` | Research report submitted for the module |
+| `research_diary` | Research diary kept throughout the project |
+| `FITS` | Raw FITS telescope images for NGC 3982, NGC 2865, NGC 7773 |
 
 ---
 
